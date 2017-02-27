@@ -7,6 +7,8 @@ and run
 node *yourfile*.js
 ```
 
+* info on javascript *
+
 Here are some suggested things you can build
 
 ### Test the command line! (Basic)
